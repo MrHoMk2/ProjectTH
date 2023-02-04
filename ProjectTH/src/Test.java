@@ -11,6 +11,15 @@ public class Test {
 
 		System.out.println("������");
 		
+		int x = 10;
+		int y = 20;
+		
+		System.out.println(x + y);
+		
+		String java = "java";
+		String hard = "hard";
+		
+		System.out.println(java + "is" + hard);
 
 	}
 
