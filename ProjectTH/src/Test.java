@@ -22,6 +22,8 @@ public class Test {
 		String hard = "hard";
 		
 		System.out.println(java + "is" + hard);
+		
+		System.out.println(x + java);
 
 	}
 
